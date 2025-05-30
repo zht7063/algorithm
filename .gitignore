@@ -1,0 +1,10 @@
+# g++ compilation output
+*.o
+*.out
+*.exe
+a.out
+*.obj
+*.dll
+*.so
+*.dylib
+
